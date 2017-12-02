@@ -6,11 +6,11 @@ This repo is the [Julia](https://github.com/JuliaLang/julia) *translation* of th
 
 * Introduce the Julia language in the context of deep learning
 * Introduce Julia's package `Knet`: an alternative/complementary option to MXNet
-* Leverage the strengths of Jupyter notebooks to present prose, graphics, equations, and code together in one place.
+* Leverage the strengths of Jupyter notebooks to present prose, graphics, equations, and code together in one place
 
 Wherever possible we provide Julia's version of any particular code. However, in many instances Julia can achieve the same goal with fewer or different commands such that a direct (or one two one) translation is either impossible or cumbersome. Thus, at our discretion we may replace large blocks of code with a significanly different Julia version, though our objective is to stay true to the essense and goal of the original work. 
 
-In addition to offering a complementary Julia version, wherever possible we also offer additional examples with different datasets for any particular topic, and we offer additional theoretical explanations whenever approapiate. Finally, with the same spirit of its predecessor, we welcome contributions from the community and hope to coauthor chapters and entire sections with experts and community members. 
+In addition to offering a complementary Julia version, wherever possible we also replace or modify examples to experiment with different datasets (with a focus on medical data) for any particular topic (in which case the reader is referred to the original example for context), and we offer additional theoretical explanations whenever approapiate. Finally, with the same spirit of its predecessor, we welcome contributions from the community and hope to coauthor chapters and entire sections with experts and community members. 
 
 ## Implementation with Knet
 
