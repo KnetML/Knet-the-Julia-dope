@@ -18,7 +18,7 @@ Throughout this book, we rely upon Julia's package `Knet`. Knet relies on the [A
 
 ## Dependencies 
 
-To run these notebooks, you'll want to install [Julia](https://github.com/JuliaLang/julia) and add all the required packages that we will use throughout this tutorial. Fortunately, after installing Julia this is very easy with the command `Pkg.add('PackageName.jl')`. You'll also want to install [IJulia](https://github.com/JuliaLang/IJulia.jl), a Julia kernel for Jupyter. 
+To run these notebooks, you'll want to install [Julia](https://github.com/JuliaLang/julia) and add all the required packages (this is done automatically for you at the start of every notebook) that we will use throughout this tutorial. Fortunately, after installing Julia this is very easy with the command `Pkg.add('PackageName')`. You'll also want to install [IJulia](https://github.com/JuliaLang/IJulia.jl), a Julia kernel for Jupyter. 
 
 ## Table of contents
 
@@ -38,7 +38,3 @@ To run these notebooks, you'll want to install [Julia](https://github.com/JuliaL
 * **Chapter 5:** Recurrent neural networks (RNNs)
     * [Simple RNNs (from scratch)](https://github.com/moralesq/Knet-the-Julia-dope/blob/master/chapter05_recurrent-neural-networks/MLP.ipynb)
     * [LSTMS RNNs (from scratch)](https://github.com/moralesq/Knet-the-Julia-dope/blob/master/chapter05_recurrent-neural-networks/LSTM_shakespeare.ipynb)
-    * [GRUs (from scratch)](https://github.com/zackchase/mxnet-the-straight-dope/blob/master/chapter05_recurrent-neural-networks/gru-scratch.ipynb)
-    * [RNNs (with ``gluon``)](https://github.com/zackchase/mxnet-the-straight-dope/blob/master/chapter05_recurrent-neural-networks/rnns-gluon.ipynb)
-    * ***Roadmap*** Dropout for recurrent nets
-    * ***Roadmap*** Zoneout regularization
