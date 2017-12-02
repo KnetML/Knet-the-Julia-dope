@@ -1,6 +1,14 @@
 # Knet-the-Julia-dope
-An interactive book on deep learning. Much easy, so Knet. Wow.
 
+## Abstract 
+
+This repo is the [Julia](https://github.com/JuliaLang/julia) *translation* of the [mxnet-the-straight-dope](https://github.com/zackchase/mxnet-the-straight-dope) repo, a collection of notebooks designed to teach deep learning, MXNet, and the `gluon` interface. This project grew out of the MIT course [6.338](http://courses.csail.mit.edu/18.337/2017/) *Modern Numerial Computing with Julia* taught by professor [Alan Edelman](https://github.com/alanedelman) and its main objectives are:
+
+* adfa
+* dafdf
+
+
+The purpose of this translation is to introduce the reader to the Julia language and its popular package `Knet` in the context of a deep learning tutorial. 
 
 ## Table of contents
 
