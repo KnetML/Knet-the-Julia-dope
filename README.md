@@ -32,9 +32,5 @@ To run these notebooks, you'll want to install [Julia](https://github.com/JuliaL
     * [Automatic differentiation via ``autograd``](https://github.com/moralesq/Knet-the-Julia-dope/blob/master/chapter01_crashcourse/autograd.ipynb)
     
  * **Chapter 1:** Crash course
-     * [Linear regression (from scratch)](https://github.com/moralesq/Knet-the-Julia-dope/blob/master/chapter02_supervised-learning/Untitled.ipynb)
+     * [Linear regression](https://github.com/moralesq/Knet-the-Julia-dope/blob/master/chapter02_supervised-learning/linear-regression.ipynb)
  
- 
-* **Chapter 5:** Recurrent neural networks (RNNs)
-    * [Simple RNNs (from scratch)](https://github.com/moralesq/Knet-the-Julia-dope/blob/master/chapter05_recurrent-neural-networks/MLP.ipynb)
-    * [LSTMS RNNs (from scratch)](https://github.com/moralesq/Knet-the-Julia-dope/blob/master/chapter05_recurrent-neural-networks/LSTM_shakespeare.ipynb)
