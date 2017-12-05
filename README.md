@@ -33,4 +33,4 @@ To run these notebooks, you'll want to install [Julia](https://github.com/JuliaL
     
  * **Chapter 1:** Crash course
      * [Linear regression](https://github.com/moralesq/Knet-the-Julia-dope/blob/master/chapter02_supervised-learning/linear-regression.ipynb)
- 
+     * [Logistic regression](https://github.com/moralesq/Knet-the-Julia-dope/blob/master/chapter02_supervised-learning/logistic-regression.ipynb)
