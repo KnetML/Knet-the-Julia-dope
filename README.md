@@ -2,15 +2,26 @@
 
 ## Abstract 
 
-This repo is the [Julia](https://github.com/JuliaLang/julia) *translation* of the [mxnet-the-straight-dope](https://github.com/zackchase/mxnet-the-straight-dope) repo, a collection of notebooks designed to teach deep learning, MXNet, and the `gluon` interface. This project grew out of the MIT course [6.338](http://courses.csail.mit.edu/18.337/2017/) *Modern Numerial Computing with Julia* taught by professor [Alan Edelman](https://github.com/alanedelman) and its main objectives are:
+This repo is the [Julia](https://github.com/JuliaLang/julia) *translation* of the [mxnet-the-straight-dope](https://github.com/zackchase/mxnet-the-straight-dope) repo, a collection of notebooks designed to teach deep learning, MXNet, and the `gluon` interface. This project grew out of the MIT course [6.338](http://courses.csail.mit.edu/18.337/2017/) *Modern Numerical Computing with Julia* taught by professor [Alan Edelman](https://github.com/alanedelman). Our main objectives are:
 
-* Introduce the Julia language in the context of deep learning
+* Introduce the Julia language and its `main` packages in the context of deep learning
 * Introduce Julia's package `Knet`: an alternative/complementary option to MXNet
 * Leverage the strengths of Jupyter notebooks to present prose, graphics, equations, and code together in one place
 
 Wherever possible we provide Julia's version of any particular code. However, in many instances Julia can achieve the same goal with fewer or different commands such that a direct (or one two one) translation is either impossible or cumbersome. Thus, at our discretion we may replace large blocks of code with a significanly different Julia version, though our objective is to stay true to the essense and goal of the original work. 
 
 In addition to offering a complementary Julia version, wherever possible we also replace or modify examples to experiment with different datasets (with a focus on medical data) for any particular topic (in which case the reader is referred to the original example for context), and we offer additional theoretical explanations whenever approapiate. Finally, with the same spirit of its predecessor, we welcome contributions from the community and hope to coauthor chapters and entire sections with experts and community members. 
+
+## Organization 
+
+Each notebook is organized as follow: 
+
+* Set up the environment. This includes introducing (and if necessary adding) new packages
+* Introducing and briefly explaining the new Julia functions found on the notebook
+* Notebook content 
+* Exercises
+
+We make heavy use of packages like [JuliaDB](https://github.com/JuliaComputing/JuliaDB.jl), [Plots](https://github.com/JuliaPlots/Plots.jl) and the plotting backend [GR](https://github.com/jheinen/GR.jl),[HDF5](https://github.com/JuliaIO/HDF5.jl), [Distributions](https://github.com/JuliaStats/Distributions.jl), and ofcourse [Knet](https://github.com/denizyuret/Knet.jl)
 
 ## Implementation with Knet
 
