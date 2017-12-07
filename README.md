@@ -42,6 +42,13 @@ To run these notebooks, you'll want to install [Julia](https://github.com/JuliaL
     * [Probability and statistics](https://github.com/moralesq/Knet-the-Julia-dope/blob/master/chapter01_crashcourse/probability.ipynb)
     * [Automatic differentiation via ``autograd``](https://github.com/moralesq/Knet-the-Julia-dope/blob/master/chapter01_crashcourse/autograd.ipynb)
     
- * **Chapter 1:** Crash course
-     * [Linear regression](https://github.com/moralesq/Knet-the-Julia-dope/blob/master/chapter02_supervised-learning/linear-regression.ipynb)
-     * [Logistic regression](https://github.com/moralesq/Knet-the-Julia-dope/blob/master/chapter02_supervised-learning/logistic-regression.ipynb)
+ * **Chapter 2:** Crash course
+     * [introduction](https://github.com/moralesq/Knet-the-Julia-dope/blob/master/chapter02_supervised-learning/introduction.ipynb)
+     * [linear-regression](https://github.com/moralesq/Knet-the-Julia-dope/blob/master/chapter02_supervised-learning/linear-regression.ipynb)
+     * [logistic-regression](https://github.com/moralesq/Knet-the-Julia-dope/blob/master/chapter02_supervised-learning/logistic-regression.ipynb)
+     * [multiclass-logistic-regression](https://github.com/moralesq/Knet-the-Julia-dope/blob/master/chapter02_supervised-learning/multiclass-logistic-regression.ipynb)
+     * [regularization](https://github.com/moralesq/Knet-the-Julia-dope/blob/master/chapter02_supervised-learning/regularization.ipynb)
+     
+  * **Chapter 3:** Deep neural networks (DNNs)
+  
+  * **Chapter 4:** Convolutional neural networks (CNNs)
