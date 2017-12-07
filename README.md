@@ -42,13 +42,24 @@ To run these notebooks, you'll want to install [Julia](https://github.com/JuliaL
     * [Probability and statistics](https://github.com/moralesq/Knet-the-Julia-dope/blob/master/chapter01_crashcourse/probability.ipynb)
     * [Automatic differentiation via ``autograd``](https://github.com/moralesq/Knet-the-Julia-dope/blob/master/chapter01_crashcourse/autograd.ipynb)
     
- * **Chapter 2:** Crash course
-     * [introduction](https://github.com/moralesq/Knet-the-Julia-dope/blob/master/chapter02_supervised-learning/introduction.ipynb)
-     * [linear-regression](https://github.com/moralesq/Knet-the-Julia-dope/blob/master/chapter02_supervised-learning/linear-regression.ipynb)
-     * [logistic-regression](https://github.com/moralesq/Knet-the-Julia-dope/blob/master/chapter02_supervised-learning/logistic-regression.ipynb)
-     * [multiclass-logistic-regression](https://github.com/moralesq/Knet-the-Julia-dope/blob/master/chapter02_supervised-learning/multiclass-logistic-regression.ipynb)
-     * [regularization](https://github.com/moralesq/Knet-the-Julia-dope/blob/master/chapter02_supervised-learning/regularization.ipynb)
+ * **Chapter 2:** Introduction to supervised learning
+     * [introduction](https://github.com/moralesq/Knet-the-Julia-dope/blob/master/chapter02_supervised-learning/section1-introduction.ipynb)
+     * [linear-regression](https://github.com/moralesq/Knet-the-Julia-dope/blob/master/chapter02_supervised-learning/section2-linear-regression.ipynb)
+     * [logistic-regression](https://github.com/moralesq/Knet-the-Julia-dope/blob/master/chapter02_supervised-learning/section3-logistic-regression.ipynb)
+     * [multiclass-logistic-regression](https://github.com/moralesq/Knet-the-Julia-dope/blob/master/chapter02_supervised-learning/section4-multiclass-logistic-regression.ipynb)
+     * [regularization](https://github.com/moralesq/Knet-the-Julia-dope/blob/master/chapter02_supervised-learning/section5-regularization.ipynb)
+     * [regularization](https://github.com/moralesq/Knet-the-Julia-dope/blob/master/chapter02_supervised-learning/section6-perceptron.ipynb)
+     * [regularization](https://github.com/moralesq/Knet-the-Julia-dope/blob/master/chapter02_supervised-learning/section7-learning-environments.ipynb)    
      
   * **Chapter 3:** Deep neural networks (DNNs)
   
   * **Chapter 4:** Convolutional neural networks (CNNs)
+  
+  * **Chapter 5:** Recurrent neural networks (RNNs)
+
+### Part 2: Applications
+
+  * **Chapter 12:** Time series
+  
+* **Chapter 14:** Generative adversarial networks (GANs)
+  
