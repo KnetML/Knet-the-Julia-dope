@@ -48,8 +48,8 @@ To run these notebooks, you'll want to install [Julia](https://github.com/JuliaL
      * [logistic-regression](https://github.com/moralesq/Knet-the-Julia-dope/blob/master/chapter02_supervised-learning/section3-logistic-regression.ipynb)
      * [multiclass-logistic-regression](https://github.com/moralesq/Knet-the-Julia-dope/blob/master/chapter02_supervised-learning/section4-multiclass-logistic-regression.ipynb)
      * [regularization](https://github.com/moralesq/Knet-the-Julia-dope/blob/master/chapter02_supervised-learning/section5-regularization.ipynb)
-     * [regularization](https://github.com/moralesq/Knet-the-Julia-dope/blob/master/chapter02_supervised-learning/section6-perceptron.ipynb)
-     * [regularization](https://github.com/moralesq/Knet-the-Julia-dope/blob/master/chapter02_supervised-learning/section7-learning-environments.ipynb)    
+     * [perceptron](https://github.com/moralesq/Knet-the-Julia-dope/blob/master/chapter02_supervised-learning/section6-perceptron.ipynb)
+     * [learning-environments](https://github.com/moralesq/Knet-the-Julia-dope/blob/master/chapter02_supervised-learning/section7-learning-environments.ipynb)    
      
   * **Chapter 3:** Deep neural networks (DNNs)
   
