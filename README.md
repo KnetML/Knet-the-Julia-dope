@@ -12,20 +12,19 @@ Wherever possible we provide Julia's version of any particular code. However, in
 
 In addition to offering a complementary Julia version, wherever possible we also replace or modify examples to experiment with different datasets (with a focus on medical data) for any particular topic (in which case the reader is referred to the original example for context), and we offer additional theoretical explanations whenever approapiate. Finally, with the same spirit of its predecessor, we welcome contributions from the community and hope to coauthor chapters and entire sections with experts and community members. 
 
-## Organization 
+## New Datasets
 
-Each notebook is organized as follow: 
+In this repo we implement new examples with different datasets, including:
 
-* Set up the environment. This includes introducing (and if necessary adding) new packages
-* Introducing and briefly explaining the new Julia functions found on the notebook
-* Notebook content 
-* Exercises
-
-We make heavy use of packages like [JuliaDB](https://github.com/JuliaComputing/JuliaDB.jl), [Plots](https://github.com/JuliaPlots/Plots.jl) and the plotting backend [GR](https://github.com/jheinen/GR.jl),[HDF5](https://github.com/JuliaIO/HDF5.jl), [Distributions](https://github.com/JuliaStats/Distributions.jl), and ofcourse [Knet](https://github.com/denizyuret/Knet.jl)
+* Simulated cardiac MRI CINE images
+* [Cardiac Electrocardiograms](https://www.physionet.org/physiobank/annotations.shtml)
+* [Medical appointment dataset](https://www.kaggle.com/joniarroba/noshowappointments/discussion/28825)
 
 ## Implementation with Knet
 
 Throughout this book, we rely upon Julia's package `Knet`. Knet relies on the [AutoGrad](https://github.com/denizyuret/AutoGrad.jl) package and the [KnetArray](http://denizyuret.github.io/Knet.jl/latest/reference.html#KnetArray-1) data type for its functionality and performance. AutoGrad computes the gradient of Julia functions and KnetArray implements high performance GPU arrays with custom memory management.
+
+We make heavy use of packages like [JuliaDB](https://github.com/JuliaComputing/JuliaDB.jl), [Plots](https://github.com/JuliaPlots/Plots.jl) and the plotting backend [GR](https://github.com/jheinen/GR.jl),[HDF5](https://github.com/JuliaIO/HDF5.jl), [Distributions](https://github.com/JuliaStats/Distributions.jl), and ofcourse [Knet](https://github.com/denizyuret/Knet.jl)
 
 ## Dependencies 
 
@@ -52,14 +51,20 @@ To run these notebooks, you'll want to install [Julia](https://github.com/JuliaL
      * [learning-environments](https://github.com/moralesq/Knet-the-Julia-dope/blob/master/chapter02_supervised-learning/section7-learning-environments.ipynb)    
      
   * **Chapter 3:** Deep neural networks (DNNs)
+      * [multilayer perceptrons](https://github.com/moralesq/Knet-the-Julia-dope/blob/master/chapter03_deep-neural-networks/section2-multilayer%20perceptrons.ipynb)
+      * [dropout](https://github.com/moralesq/Knet-the-Julia-dope/blob/master/chapter03_deep-neural-networks/section3-dropout.ipynb)
   
   * **Chapter 4:** Convolutional neural networks (CNNs)
+      * [cnn](https://github.com/moralesq/Knet-the-Julia-dope/blob/master/chapter04_convolutional-neural-networks/section2-cnn.ipynb)
   
   * **Chapter 5:** Recurrent neural networks (RNNs)
 
 ### Part 2: Applications
 
   * **Chapter 12:** Time series
+      * [Exponential Smoothing and Innovation State Space Model](https://github.com/moralesq/Knet-the-Julia-dope/blob/master/chapter12_time-series/section2-issm.ipynb)
   
-* **Chapter 14:** Generative adversarial networks (GANs)
+  * **Chapter 14:** Generative adversarial networks
+      * [introduction](https://github.com/moralesq/Knet-the-Julia-dope/blob/master/chapter14_generative-adversarial-networks/section1-introduction.ipynb)
+      * [GANs](https://github.com/moralesq/Knet-the-Julia-dope/blob/master/chapter14_generative-adversarial-networks/section2-generative-adversarial-networks.ipynb)
   
