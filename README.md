@@ -58,6 +58,8 @@ To run these notebooks, you'll want to install [Julia](https://github.com/JuliaL
       * [cnn](https://github.com/moralesq/Knet-the-Julia-dope/blob/master/chapter04_convolutional-neural-networks/section2-cnn.ipynb)
   
   * **Chapter 5:** Recurrent neural networks (RNNs)
+      * [MLP](https://github.com/moralesq/Knet-the-Julia-dope/blob/master/chapter05_recurrent-neural-networks/section2-MLP.ipynb)
+      * [LSTM](https://github.com/moralesq/Knet-the-Julia-dope/blob/master/chapter05_recurrent-neural-networks/section3-LSTM_shakespeare.ipynb)
 
 ### Part 2: Applications
 
