@@ -69,4 +69,5 @@ To run these notebooks, you'll want to install [Julia](https://github.com/JuliaL
   * **Chapter 14:** Generative adversarial networks
       * [introduction](https://github.com/moralesq/Knet-the-Julia-dope/blob/master/chapter14_generative-adversarial-networks/section1-introduction.ipynb)
       * [GANs](https://github.com/moralesq/Knet-the-Julia-dope/blob/master/chapter14_generative-adversarial-networks/section2-generative-adversarial-networks.ipynb)
+      * [GANs in less than 50 lines of code with Julia Knet](https://github.com/moralesq/Knet-the-Julia-dope/blob/master/chapter14_generative-adversarial-networks/section3-GANs-less-than-50-lines-of-code.ipynb)
   
